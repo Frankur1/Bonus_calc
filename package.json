@@ -1,5 +1,5 @@
 {
-  "name": "bonus_calc",
+  "name": "bonus_calc_server",
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
@@ -7,6 +7,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.18.2"
   }
 }
